@@ -114,6 +114,8 @@ $array3 = ["DU", "Dhaka COllege", "Jagannath"];
             for ($x = 0; $x <= 10; $x++) {
                 echo "my number is- $x <br>";
         } 
+
+	
 ?>
 
 
