@@ -116,10 +116,7 @@ $array3 = ["DU", "Dhaka COllege", "Jagannath"];
         } 
 ?>
 
-	
 
-
-?>
     
 </body>
 </html>
